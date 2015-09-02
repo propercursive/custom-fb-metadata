@@ -1,0 +1,11 @@
+{
+  "name": "custom-fb-metadata",
+  "version": "0.0.1",
+  "description": "create custom metadata for sharing articles/links to FB",
+  "author": "Ryan Watkins-Hughes",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "jade": "^1.11.0"
+  }
+}
